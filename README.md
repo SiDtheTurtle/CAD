@@ -18,6 +18,13 @@ I push-fitted the clip to the holder, but you may need glue.
 
 Print in the orientation provided.
 
+## Parasol Pole Cap
+![](ParasolPoleCap/ParasolPoleCap.png)
+
+- [GitHub](https://github.com/SiDtheTurtle/3DPrinting/tree/main/ParasolPoleCap)
+
+Possibly the simpliest print I've done for a while. As winter approaches, I've taken down my garden parasol. The pole and stand however are too heavy to move. I printed this simple cap to cover the pole and prevent water getting in and causing rust or other issues. The design is parametric so I can alter it for other poles in future. I even managed to print it too large (measure twice, cut once) as you can see in the picture, but if it blows away I can always print another! Printed in ELEGOO Rapid PETG grey, to protect against the elements. Note the indentation where the base finishes and the walls begin, a common 3D printer issue.
+
 ## MultiConnect
 CADs and STLs for any parts I've remixed to connect to MultiBoard or OpenGrid using [MultiConnect](https://www.printables.com/model/1074671-raised-multiconnect-generic-connector-for-multiboa).
 
